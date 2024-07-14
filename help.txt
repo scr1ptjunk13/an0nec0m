@@ -1,0 +1,26 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[aux tasks]
+task 1: to learn mvn commands and learn to debug using it 
+task 2: learn what are mvn dependencies , working , and use of the external vscode plugins
+
+mvn clean compile
+mvn exec:java '-Dexec.mainClass=com.search.Main 
+
+
+
+
